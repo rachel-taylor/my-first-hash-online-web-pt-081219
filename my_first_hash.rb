@@ -1,5 +1,5 @@
 def my_hash(houses)
-houses = {"Harry" => Gryffindor, "Luna" => Gryffindor, "Draco" = Slytherin}
+houses = {"Harry" => Gryffindor, "Luna" => Hufflepuff, "Draco" = Slytherin}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 end
 
